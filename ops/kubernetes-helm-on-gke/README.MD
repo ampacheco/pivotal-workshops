@@ -27,7 +27,7 @@
         Otra alternativa puede ser:
 
         ```
-            gcloud components install kubectl
+        gcloud components install kubectl
         ```
 
         Para otros SO distintos de MAC seguir las recomendaciones del sitio oficial de [Kubernetes](https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl).
@@ -44,7 +44,7 @@
 3. Desplegar un clúster de 3 nodos
 
     ```
-        gcloud container clusters create my-gke-cluster --num-nodes=3
+    gcloud container clusters create my-gke-cluster --num-nodes=3
     ```
 
 4. Crear services account in kubernetes
