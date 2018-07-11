@@ -39,5 +39,5 @@
 2. Desplegar un clúster de 3 nodos
 
     ```
-        gcloud container clusters create my-gke-cluster --nodes =3
+        gcloud container clusters create my-gke-cluster --num-nodes=3
     ```
