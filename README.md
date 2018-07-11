@@ -5,5 +5,5 @@ Este Repositorio tiene como objetivo presentar las características principales 
 
 Los principales HOL están divididos en dos grandes grupos:
 
-- Desarrollo de Aplicaciones
-- Despliegue y Operación de Aplicaciones
+- [Desarrollo de Aplicaciones](./dev/README.MD)
+- [Despliegue y Operación de Aplicaciones](./ops/README.MD)
